@@ -46,7 +46,7 @@ cd iris-flower-classification-2024
 Install the required dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy seaborn matplotlib scikit-learn
 ```
 
 ## Usage
