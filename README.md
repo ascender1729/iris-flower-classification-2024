@@ -63,7 +63,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the 'LICENSE' file for details.
 
 ## Contact
 
