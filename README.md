@@ -69,7 +69,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 Pavan Kumar - pavankumard.pg19.ma@nitp.ac.in
 
-LinkedIn: [https://www.linkedin.com/in/im-pavankumar](https://www.linkedin.com/in/im-pavankumar)
+LinkedIn: [www.linkedin.com/in/im-pavankumar](https://www.linkedin.com/in/im-pavankumar)
 
-Project Link: [https://github.com/ascender1729/iris-flower-classification-2024](https://github.com/ascender1729/iris-flower-classification-2024)
+Project Link: [github.com/ascender1729/iris-flower-classification-2024](https://github.com/ascender1729/iris-flower-classification-2024)
 
