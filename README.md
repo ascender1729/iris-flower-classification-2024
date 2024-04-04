@@ -1,4 +1,3 @@
-
 # Iris Flower Classification Analysis
 
 The Iris Flower Classification Analysis is a machine learning project that explores and analyzes the famous Iris flower dataset. This project implements a K-Nearest Neighbors (KNN) classifier to predict the species of Iris flowers based on features like sepal length, sepal width, petal length, and petal width.
@@ -40,7 +39,7 @@ The Iris dataset contains 150 samples of Iris flowers with the following feature
 To set up the project environment:
 
 ```bash
-git clone https://github.com/your-github-username/iris-flower-classification-2024.git
+git clone https://github.com/ascender1729/iris-flower-classification-2024.git
 cd iris-flower-classification-2024
 ```
 
@@ -70,7 +69,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Pavan Kumar - pavankumard.pg19.ma@nitp.ac.in
 
-LinkedIn: [linkedin.com/in/im-pavankumar](https://www.linkedin.com/in/im-pavankumar/)
+LinkedIn: [https://www.linkedin.com/in/im-pavankumar](https://www.linkedin.com/in/im-pavankumar)
 
-Project Link: [ClearSpeak](https://github.com/ascender1729/iris-flower-classification-2024)
+Project Link: [https://github.com/ascender1729/iris-flower-classification-2024](https://github.com/ascender1729/iris-flower-classification-2024)
 
