@@ -71,5 +71,5 @@ Pavan Kumar - pavankumard.pg19.ma@nitp.ac.in
 
 LinkedIn: [@ascender1729](https://www.linkedin.com/in/im-pavankumar)
 
-Project Link: [github.com/ascender1729/iris-flower-classification-2024](https://github.com/ascender1729/iris-flower-classification-2024)
+Project Link: [iris-flower-classification-2024](https://github.com/ascender1729/iris-flower-classification-2024)
 
