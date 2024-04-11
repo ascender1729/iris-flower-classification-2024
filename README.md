@@ -58,10 +58,10 @@ Install the required libraries:
 
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn
-
+```
 
 Run the Jupyter notebook via Google Colab for a comprehensive walkthrough.
-```
+
 ## Contributing
 
 Contributions are welcome to extend the analysis or improve the existing methodologies.
